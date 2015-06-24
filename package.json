@@ -1,0 +1,19 @@
+{
+  "name": "busboyTest",
+  "version": "0.0.0",
+  "description": "just test for busboy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "busboy"
+  ],
+  "author": "yuezheng",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "busboy": "~0.2.9"
+  }
+}
